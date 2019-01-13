@@ -1,0 +1,8 @@
+[staging_WEB]
+52.29.175.178
+[stagin_APP]
+172.31.41.54
+
+[staging_ALL:children]
+staging_WEB
+staging_APP
